@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valia\\OneDrive\\Masaüstü\\coding\\aspnetcore\\ProductsAPI-General\\ClientApps\\aspClientApp\\aspClientApp\\aspClientApp.csproj": {}
+    "C:\\Users\\valia\\OneDrive\\Masaüstü\\coding\\aspnetcore\\ProductsAPI-General\\ClientApps\\aspClientApp\\aspClientApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valia\\OneDrive\\Masaüstü\\coding\\aspnetcore\\ProductsAPI-General\\ClientApps\\aspClientApp\\aspClientApp\\aspClientApp.csproj": {
+    "C:\\Users\\valia\\OneDrive\\Masaüstü\\coding\\aspnetcore\\ProductsAPI-General\\ClientApps\\aspClientApp\\aspClientApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valia\\OneDrive\\Masaüstü\\coding\\aspnetcore\\ProductsAPI-General\\ClientApps\\aspClientApp\\aspClientApp\\aspClientApp.csproj",
+        "projectUniqueName": "C:\\Users\\valia\\OneDrive\\Masaüstü\\coding\\aspnetcore\\ProductsAPI-General\\ClientApps\\aspClientApp\\aspClientApp.csproj",
         "projectName": "aspClientApp",
-        "projectPath": "C:\\Users\\valia\\OneDrive\\Masaüstü\\coding\\aspnetcore\\ProductsAPI-General\\ClientApps\\aspClientApp\\aspClientApp\\aspClientApp.csproj",
+        "projectPath": "C:\\Users\\valia\\OneDrive\\Masaüstü\\coding\\aspnetcore\\ProductsAPI-General\\ClientApps\\aspClientApp\\aspClientApp.csproj",
         "packagesPath": "C:\\Users\\valia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valia\\OneDrive\\Masaüstü\\coding\\aspnetcore\\ProductsAPI-General\\ClientApps\\aspClientApp\\aspClientApp\\obj\\",
+        "outputPath": "C:\\Users\\valia\\OneDrive\\Masaüstü\\coding\\aspnetcore\\ProductsAPI-General\\ClientApps\\aspClientApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
