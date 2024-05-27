@@ -1,5 +1,5 @@
 
-## CRUD API template to use for client side apps.
+## API template to use for client side apps.
 ## Used Swagger for testing.
 
 ## Include Bootstrap library to .NET project
@@ -20,5 +20,5 @@
 **4- Including Css File**
 -  \<link  href="/lib/bootstrap/css/bootstrap.min.css"  rel="stylesheet"  />
 
-**- Screenshot of CRUD API Template Project**
+**- Screenshot of API Template Project**
 ![Ekran görüntüsü 2024-05-27 082549](https://github.com/yigitalpkaynak/clientAppsForProductsAPI/assets/71692297/6fbcb5f6-8585-423c-8d85-0dfa18580cf7)
