@@ -20,4 +20,5 @@
 **4- Including Css File**
 -  \<link  href="/lib/bootstrap/css/bootstrap.min.css"  rel="stylesheet"  />
 
-**- Screenshot of CRUD Inventory Project**
+**- Screenshot of CRUD API Template Project**
+![Ekran görüntüsü 2024-05-27 082549](https://github.com/yigitalpkaynak/clientAppsForProductsAPI/assets/71692297/6fbcb5f6-8585-423c-8d85-0dfa18580cf7)
