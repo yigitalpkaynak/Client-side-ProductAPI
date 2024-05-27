@@ -1,7 +1,10 @@
 
-## Bootstrap ile Asp.NET Uygulamasına Tema Uygulama
+## CRUD API template to use for client side apps.
+## Used Swagger for testing.
 
- **1- Libman Kurulumu**
+## Include Bootstrap library to .NET project
+
+ **1- Libman Setup**
 
 - dotnet tool list -g
 - dotnet tool uninstall --global Microsoft.Web.LibraryManager.Cli
@@ -11,8 +14,10 @@
 - cd storeApp.Web
 - libman init -p cdnjs
 
-**3- Kütüphane Kurulumu**
+**3- Library Setup**
 - libman install bootstrap@5.3.2 -d wwwroot/lib/bootstrap
 
-**4- Css Kütaphanesinin Dahil Edilmesi**
+**4- Including Css File**
 -  \<link  href="/lib/bootstrap/css/bootstrap.min.css"  rel="stylesheet"  />
+
+**- Screenshot of CRUD Inventory Project**
